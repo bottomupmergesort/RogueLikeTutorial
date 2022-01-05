@@ -1,0 +1,5 @@
+This Section includes the Full code up through the end of Part 2.
+When completed we have:
+An engine Class, and Actor Class, and a Map class yielding us a 
+prodcedurally generated dungeon and a basic player character to 
+navigate the dungeon with.
